@@ -1,0 +1,30 @@
+,,,,,
+ชื่อชุด Set,ประเภท,ชื่อสกิล,จำนวนชิ้นที่ใส่,Effect ระดับ 1,Effect ระดับ 2
+Neopteron Alert,Group,Honey Hunter,3,เพิ่มปริมาณน้ำผึ้งที่ได้รับจาการเก็บตามแผนที่,
+Neopteron Camouflage,Group,Fleetfoot,3,เพิ่มความเร็วในการเคลื่อนที่ขณะนั่งหมอบ และทำให้หลบหนีจากการตรวจจับของมอนสเตอร์ขนาดใหญ่ได้ง่ายขึ้น,"
+"
+Flexible Leathercraft,Group,Hunter Gatherer,3,เพิ่มความเร็วในการเก็บของ และป้องกันแรงผลักขณะผู้เล่นกำลังเก็บของ หรือแล่ชิ้นส่วน,
+Buttery Leathercraft,Group,Affinity Sliding,3,เพิ่มโอกาสโจมตีติดคริติคอล Affinity +30% เมื่อถไลตามพื้นเอียง,
+Scaling Prowess,Group,Master Mounter,3,ทำให้ขี่มอนสเตอร์ได้ง่ายขึ้น และทำให้เกิดบาดเจ็บเมื่อขี่ทันที 1 แผล,
+Scale Layering,Group,Adrenaline,3,ลดการใช้ Stamina ลงเมือเลือดของผู้เล่นต่ำกว่า 40%,
+Fortifying Pelt,Group,Fortify,3,พลังโจมตีและป้องกันเพิ่มขึ้นผู้เล่นนอนแมว (เอฟเฟกต์นี้สามารถซ้อนทับได้ 2 ครั้ง),
+Alluring Pelt,Group,Diversion,3,ดึงความสนใจให้มอนสเตอร์โจมตีมาที่ผู้เล่น,
+Lord's Favor,Group,Inspiration,3,เพิ่มพลังโจมตีชั่วคราว เมื่อใช้ผู้เล่นทำการเป่าเพลงและเอฟเฟกต์นี้ส่งผลต่อเพื่อนร่วมทางที่อยู่ในระยะด้วย,
+Lord's Fury,Group,Resuscitate,3,พลังโจมตี +10 เมื่อผู้เล่นติดสถานะผิดปกติใดก็ได้,
+Guardian's Pulse,Group,Wylk Burst,3,เพิ่มความเร็วในการฟื้นฟู Stamina และเกจเลือดสีแดงเมื่อผู้เล่นอยู่ใกล้ก้อนคริสตัล Wylkrystal,
+Guardian's Protection,Group,Ward of Wyveria,3,ลดความเสียหายจากธาตุและความเสียหายแบบพิเศษในขณะที่อยู่ในแมพ Ruins of Wyveria ,
+Imparted Wisdom,Group,Forager's Luck,3,เพิ่มโอกาสได้รางวัลหายากจากการขุด Gathering points,
+Doshaguma's Might,Series,Powerhouse,"2, 4",Attack +10 นาน 180 วินาที เมื่อผู้เล่นทำการใช้ Offset Attack หรือ Power Clash ใส่มอนสเตอร์ขนาดใหญ่,Attack +25 นาน 180 วินาที เมื่อผู้เล่นทำการใช้ Offset Attack หรือ Power Clash ใส่มอนสเตอร์ขนาดใหญ่
+Rey Dau's Voltage,Series,Thunderous Roar,"2, 4",ขยายเวลาบัพของสกิล Latent Power ให้นานขึ้น 30 วินาที,ขยายเวลาบัพของสกิล Latent Power ให้นานขึ้น 90 วินาที
+Uth Duna's Cover,Series,Protective Veil,"2, 4",Defense +25 เมื่อผู้เล่นใช้อุปกรณ์พิเศษเช่น ผ้าคลุม,Defense +50 และค่าต้านทานธาตุ +12 เมื่อผู้เล่นใช้อุปกรณ์พิเศษเช่น ผ้าคลุม
+Nu Udra's Mutiny,Series,Bad Blood,"2, 4",สร้างความเสียหายเพิ่มเติม เมื่อสกิล Resentment ทำงาน,สร้างความเสียหายเพิ่มเติมอย่างมาก เมื่อสกิล Resentment ทำงาน
+Jin Dahaad's Revolt,Series,Binding Counter,"2, 4","Attack +25 นาน 60 วินาที เมื่อผู้เล่นหลุดจากสภาวะติดใย Webbed, น้ำแข็งเกาะ Frostblight, ถูกทำให้ลงไปคลาน หรือ Power Clash ใส่มอนสเตอร์","Attack +50 นาน 60 วินาที เมื่อผู้เล่นหลุดจากสภาวะติดใย Webbed, น้ำแข็งเกาะ Frostblight, ถูกทำให้ลงไปคลาน หรือ Power Clash ใส่มอนสเตอร์"
+Rathalos's Flare,Series,Scorcher,"2, 4",มีโอกาส 33% ที่จะสร้างความเสียหายเพิ่มเติมธาตุไฟ,มีโอกาส 33% ที่จะสร้างความเสียหายเพิ่มเติมธาตุไฟอย่างรุนแรง
+Gravios's Protection,Series,Flawless Armor,"2, 4",ได้รับความเสียหายลดลง 5% เมื่อผู้เล่นมีเลือดเต็ม,ได้รับความเสียหายลดลง 10% เมื่อผู้เล่นมีเลือดเต็ม
+Blangonga's Spirit,Series,War Cry,"2, 4",เมื่อผู้เล่นกด Gesture ท่า Victory จะได้รับ Attack +10 นาน 180 วินาที  และส่งผลให้กับผู้เล่นอื่นในทีมด้วย โดยแมว Palico และ NPC Hunter จะได้บัพมากกว่าเดิม,เมื่อผู้เล่นกด Gesture ท่า Victory จะได้รับ Attack +20 นาน 180 วินาที  และส่งผลให้กับผู้เล่นอื่นในทีมด้วย โดยแมว Palico และ NPC Hunter จะได้บัพมากกว่าเดิม
+Gore Magala's Tyranny,Series,Black Eclipse,"2, 4",ทำให้ผู้เล่นติดเชื้อ Frenzy ไวรัสสีม่วงทันทีเมื่อเข้าต่อสู้กับมอนสเตอร์ขนาดใหญ่ และทำดาเมจจนได้ไวรัสสีฟ้าจะเพิ่ม Affinity 15%,ทำให้ผู้เล่นติดเชื้อ Frenzy ไวรัสสีม่วงทันทีเมื่อเข้าต่อสู้กับมอนสเตอร์ขนาดใหญ่ และทำดาเมจจนได้ไวรัสสีฟ้าจะเพิ่ม Affinity 15% และ Attack +15
+Guardian Arkveld's Vitality,Series,Decimator,"2, 4",ฟื้นฟูพลังชีวิตในระดับปานกลาง เมื่อทำลายบาดแผลของมอนสเตอร์ขนาดใหญ่,ฟื้นฟูพลังชีวิตอย่างมาก เมื่อทำลายบาดแผลของมอนสเตอร์ขนาดใหญ่
+Arkveld's Hunger,Series,Hasten Recovery,"2, 4",ฟื้นฟูพลังชีวิตให้ผู้เล่นเล็กน้อย เมื่อโจมตีมอนสเตอร์อย่างต่อเนื่อง ปริมาณฟื้นตัวจะแตกต่างกันตามแต่ละอาวุธ,ฟื้นฟูพลังชีวิตให้ผู้เล่นปานกลางเมื่อโจมตีมอนสเตอร์อย่างต่อเนื่อง ปริมาณฟื้นตัวจะแตกต่างกันตามแต่ละอาวุธ
+Ebony Odogaron's Power,Series,Burst Boost,"2, 4",ขยายระยะเวลาของสกิล Burst นาน 1 วินาที และ Attack +3 ในขณะที่สกิล Burst กำลังทำงานอยู่,ขยายระยะเวลาของสกิล Burst นาน 2 วินาที และ Attack +10 ในขณะที่สกิล Burst กำลังทำงานอยู่
+Fulgur Anjanath's Will,Series,Second Wind,"2, 4",ขีดจำกัดหลอด Stamina เพิ่มขึ้น +15,ขีดจำกัดหลอด Stamina เพิ่มขึ้น +25
+Xu Wu's Vigor,Series,Protein Fiend,"2, 4",เพิ่ม Attack ชั่วคราว +15 หลังจากกินไอเทมเช่นเนื้อย่าง Well-done steak,เพิ่ม Attack ชั่วคราว +25 หลังจากกินไอเทมเช่นเนื้อย่าง Well-done steak

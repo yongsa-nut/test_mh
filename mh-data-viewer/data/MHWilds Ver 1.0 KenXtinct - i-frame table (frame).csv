@@ -1,0 +1,13 @@
+Weapon,(I-frame based on 60fps),Base,Evade Window+1,Evade Window+2,Evade Window+3,Evade Window+4,Evade Window+5
+,กลิ้งปกติ,13,15,17,19,22,25
+,กลิ้ิ้งออกข้างระหว่างโจมตี,10,12,14,16,19,22
+SnS ,BackStep,25,27,29,31,33,36
+Dual Blades,Demon Mode Dash,14,16,18,20,23,26
+Long Sword,Foresight Slash,45,47,49,51,53,55
+Long Sword,Foresight Slash (เกจแดง),45,47,49,51,53,55
+Hammer,Charge Dodge,13,15,17,19,22,25
+Hunting Horn,Offset Attack,45,47,49,51,53,55
+Insect Glaive,ฺBackwards vault,10,12,14,16,19,22
+Bow,Charge Step,13,15,17,19,22,25
+HBG,Row Dodge,13,15,17,19,22,25
+LBG,Slide Dodge,13,15,17,19,22,25
