@@ -11,7 +11,7 @@ const SearchBar: React.FC<SearchBarProps> = ({ placeholder, onSearch }) => {
   };
 
   return (
-    <div className="mb-6">
+    <div className="w-full">
       <div className="relative">
         <div className="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none">
           <svg className="w-4 h-4 text-gray-500" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
@@ -20,7 +20,7 @@ const SearchBar: React.FC<SearchBarProps> = ({ placeholder, onSearch }) => {
         </div>
         <input
           type="text"
-          className="block w-full p-3 pl-10 text-gray-900 border border-gray-300 rounded-lg bg-white focus:ring-mh-primary focus:border-mh-primary"
+          className="block w-full p-3 pl-10 text-gray-900 border border-gray-300 rounded-lg bg-white focus:ring-mh-primary focus:border-mh-primary focus:outline-none shadow-sm transition duration-200"
           placeholder={placeholder}
           onChange={handleChange}
         />
